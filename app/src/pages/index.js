@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="https://meet.google.com/mdp-adua-eyu?authuser=1&hs=122&ijlm=1748272665990">
-            Virtual Meeeting on Saturday & Sunday @ 7PM  - 8:30PM ⏱️
+            Virtual Class Room
           </Link>
         </div>
       </div>
