@@ -76,7 +76,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/cpp-social-card.png',
       navbar: {
-        title: 'Home',
+        title: 'OSTL10',
         logo: {
           alt: 'My OSTL10 Logo',
           src: 'img/logo.png',
@@ -86,7 +86,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'OSTL10',
+            label: 'CPP',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
