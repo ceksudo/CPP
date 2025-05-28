@@ -5,7 +5,7 @@ authors: [ceksudo]
 ---
 
 
-According to [IEEE Spectrum Top Programming Language Ranking](https://spectrum.ieee.org/top-programming-languages-2024), C++ is the 3rd most popular programming language in the world and used by major companies like Google, Apple, Meta, Microsoft, Amazon, Nvidia, Adobe, NASA and others which can be found on here [TheirStack](https://theirstack.com/en/technology/cplusplus) or [Top C++ Companies](https://builtin.com/companies/tech/cpp-companies).
+According to [IEEE Spectrum Top Programming Language Ranking](https://spectrum.ieee.org/top-programming-languages-2024), C++ is the 3rd most popular programming language in the world and used by major companies like Google, Apple, Meta, Microsoft, Amazon, Nvidia, Adobe, NASA and others which can be found on here [TheirStack](https://theirstack.com/en/technology/cplusplus) or [Top C++ Companies](https://builtin.com/companies/tech/cpp-companies). Therefore companies will need more c++ programmers to modify and refacter their old lagacy c++ code base. So this mentorship course aims to teach the principles and art of programming using modern c++ concepts and standards through industry good software engineering practices.  
 
 <!-- truncate -->
 
@@ -33,7 +33,7 @@ Below are some of the list of C++ Open Source Projects.
 - [Bloomberg C++ Projects](https://github.com/bloomberg?q=&type=all&language=c%2B%2B&sort=)
 - [OpenBMC C++ Projects](https://github.com/openbmc?q=&type=all&language=c%2B%2B&sort=)
 
-## AI/ML Systems and  Toolchains Projects
+## AI/ML Systems and  Toolchains Projects Written in C++
 - [OpenCV](https://github.com/opencv/opencv)
 - [XGBost](https://github.com/dmlc/xgboost)
 - [Caffe](https://github.com/BVLC/caffe)
