@@ -9,9 +9,9 @@ const FeatureList = [
     description: (
       <>
         <p>
-          Introduction and Prepartion with Lab Setup <a href='https://github.com/federico-busato/Modern-CPP-Programming/blob/master/01.Introduction.pdf' target='_blank'>
-          Introduction</a> and <a href='https://github.com/federico-busato/Modern-CPP-Programming/blob/master/02.Preparation.pdf' target='_blank'>
-          Preparation</a>
+          Introduction and Prepartion with Lab Setup <br></br> <a href='https://github.com/federico-busato/Modern-CPP-Programming/blob/master/01.Introduction.pdf' target='_blank'>
+           Introduction Slides</a> <br></br> <a href='https://github.com/federico-busato/Modern-CPP-Programming/blob/master/02.Preparation.pdf' target='_blank'>
+          Preparation Slides</a>
         </p>
       </>
     ),
