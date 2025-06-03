@@ -4,34 +4,40 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Course Registration',
+    title: 'Day 1',
     Svg: require('@site/static/img/cpp-1.svg').default,
     description: (
       <>
-        <a href='https://forms.gle/4MXcVLpkA9TSyRY47' target='_blank'>
-          Register the Course Here
+        <p>
+          Introduction and Prepartion with Lab Setup
+        <a href='https://github.com/federico-busato/Modern-CPP-Programming/blob/master/01.Introduction.pdf' target='_blank'>
+          Introduction
+        </a> and 
+         <a href='https://github.com/federico-busato/Modern-CPP-Programming/blob/master/02.Preparation.pdf' target='_blank'>
+          Preparation
         </a>
+        </p>
       </>
     ),
   },
   {
-    title: 'Lab Submission System',
+    title: 'Day 2',
     Svg: require('@site/static/img/cpp-2.svg').default,
     description: (
       <>
-        <a href='https://drive.google.com/drive/folders/1silDVP7Z55dfJAKSFBnQ1wiKWAi9dYay?usp=sharing' target='_blank'>
-          Submit your Labs Here
+        <a href='#' target='_blank'>
+          Coming Soon
         </a>
       </>
     ),
   },
   {
-    title: 'Grade System',
+    title: 'Day 3',
     Svg: require('@site/static/img/cpp-3.svg').default,
     description: (
       <>
-       <a href='https://docs.google.com/spreadsheets/d/1IjghvXj37PrUnKdjiF5KarQ-1cNzAggvXMnr-Gxyu_k/edit?usp=sharing' target='_blank'>
-          Check your Lab Scores Here
+       <a href='#' target='_blank'>
+          Coming Soon
         </a>
       </>
     ),
