@@ -20,6 +20,7 @@ Below are some of the list of C++ Open Source Projects.
 ## Some C++ Database Systems Projects
 - [mongo](https://github.com/mongodb/mongo)
 - [DuckDB](https://github.com/duckdb/duckdb)
+- [dragonfly](https://github.com/dragonflydb/dragonfly)
 
 ## Big Tech Companies C++ Projects
 - [Amazon Web Services C++ Projects](https://github.com/aws?q=&type=all&language=c%2B%2B&sort=)
