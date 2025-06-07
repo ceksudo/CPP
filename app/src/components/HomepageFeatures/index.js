@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Day 1',
+    title: 'Lesson 1',
     Svg: require('@site/static/img/cpp-1.svg').default,
     description: (
       <>
@@ -17,7 +17,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Day 2',
+    title: 'Lesson 2',
     Svg: require('@site/static/img/cpp-2.svg').default,
     description: (
       <>
@@ -28,7 +28,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Day 3',
+    title: 'Lesson 3',
     Svg: require('@site/static/img/cpp-3.svg').default,
     description: (
       <>
